@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3781a6f0-89ea-47fe-ba66-974a982dd7eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/src/main/java/atividade08/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/src/main/java/atividade08/exceptions/ContaInativaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/src/main/java/atividade08/exceptions/DadosInvalidosException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/src/main/java/atividade08/exceptions/SaldoInsuficienteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/src/main/java/atividade08/exceptions/ValorInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/src/main/java/atividade08/model/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/src/main/java/atividade08/model/Transacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/src/main/java/atividade09/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/src/main/java/atividade09/exceptions/NomeInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/src/main/java/atividade09/exceptions/NotaInvalidaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/src/main/java/atividade09/model/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/src/main/java/atividade09/model/Situacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/src/main/java/atividade09/service/LeituraService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividadeDia3/src/main/java/atividade09/service/RelatorioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dia2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dia2/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/mathe/OneDrive/Documentos/academiaJavaAccenture/Atividades/atividadeDia3" value="3D5zSClTpFCq2NXuGwwHbT4SXin" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mk-matheus&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mk-matheus/AtividadesDia3AcademiaJava.git",
+    "accountId": "fabf2a4a-eb18-4c51-9e00-c123e4f5d6eb"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3D5zSClTpFCq2NXuGwwHbT4SXin" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.atividade10.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "<unknown>",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mathe/OneDrive/Documentos/academiaJavaAccenture/Atividades/atividadeDia3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "spring",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.atividade10.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atividade09.Main" />
+      <module name="atividadeDia3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atividade09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="atividade10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atividade10.Main" />
+      <module name="atividadeDia3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atividade10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.atividade10.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.26775.15" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.26775.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3781a6f0-89ea-47fe-ba66-974a982dd7eb" name="Changes" comment="" />
+      <created>1777586716556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777586716556</updated>
+      <workItem from="1777586717520" duration="4777000" />
+      <workItem from="1777603715762" duration="4080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
